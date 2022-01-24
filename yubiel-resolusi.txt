@@ -1,0 +1,4 @@
+Yubiel Resolusi
+- Konsisten untuk belajar React dan Laravel
+- Bekerja keras untuk perusahaan yang sekarang (BHI and SMTHC)
+- Membuat prototype platform yang menghubungkan antara user, makeup artist, dan produk kosmetik
